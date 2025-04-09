@@ -20,7 +20,7 @@ This project fulfills the assignment criteria by:
 * Filtered and grouped stations by location. 
 
 ## Challenge 
-#### PHENOMENON 1: Unusual Rider Behavior by Season 
+#### PHENOMENON 1: Unusual Rider Behavior by Metics
 This phenomenon explores how casual riders and members use Citi Bikes in significantly different ways, especially in terms of trip length, usage days, and behavior patterns.
 
 **Visualizations Supporting This Phenomenon**:
@@ -33,6 +33,9 @@ This phenomenon explores how casual riders and members use Citi Bikes in signifi
 
 **Results**
 
+![Alt Text](https://github.com/maddieemihle/Citi-Bike-Data/blob/main/Images/Member%20Usage%3AType.jpg)
+
+![Alt Text](https://github.com/maddieemihle/Citi-Bike-Data/blob/main/Images/Weekend%3AWeekday%20Usage.jpg)
 
 #### PHENOMENON 2: Station-Specific Trends
 This phenomenon identifies how ridership volume and patterns shift depending on the season, affecting demand across different stations.
@@ -47,7 +50,9 @@ This phenomenon identifies how ridership volume and patterns shift depending on 
 
 **Results**
 
-![Alt Text](https://user-images.githubusercontent.com/your-image-url.png)
+![Alt Text](https://github.com/maddieemihle/Citi-Bike-Data/blob/main/Images/Stations.jpg)
+
+![Alt Text](https://github.com/maddieemihle/Citi-Bike-Data/blob/main/Images/Seasonal%20Usage.jpg)
 
 #### Map Visualization
 **Mapping Mobility**: Station Usage Across NYC:
