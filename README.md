@@ -58,7 +58,7 @@ This phenomenon identifies how ridership volume and patterns shift depending on 
 
 **Results**
 
-![Alt Text](https://user-images.githubusercontent.com/your-image-url.png)
+![Alt Text](https://github.com/maddieemihle/Citi-Bike-Data/blob/main/Images/Map.png)
 
 ## Suggested Improvements/Future Work
 * Incorporate additional demographic data (age, gender) to enrich behavior analysis.
